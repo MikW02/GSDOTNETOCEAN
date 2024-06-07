@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|c:\\users\\mike\\source\\repos\\gsdotnet\\gsdotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\data\\oracledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\data\\oracledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\categorias\\index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\categorias\\index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\views\\produtos\\index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\views\\produtos\\index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|C:\\Users\\mike\\source\\repos\\GSDOTNET\\gsdotnet\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{03F32D26-9A06-412B-847F-8FA611F12650}|GSDOTNET\\GSDOTNET.csproj|solutionrelative:gsdotnet\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:53:07.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "GSDOTNET\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:45:57.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Repositories\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Repositories\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Repositories\\ICategoriaRepository.cs",
+              "RelativeToolTip": "GSDOTNET\\Repositories\\ICategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:44:16.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "GSDOTNET\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:43:11.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "GSDOTNET\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:45:10.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "GSDOTNET\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:47:09.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GSDOTNET\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:57:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "GSDOTNET\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:34:44.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "GSDOTNET\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:01:48.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Details.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Categorias\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Details.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Categorias\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:51:54.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Categorias\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Delete.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Categorias\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:53:38.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:52:35.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:48:25.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowDQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:50:16.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Details.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Produtos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Details.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Produtos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:49:12.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Produtos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Delete.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Produtos\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T21:39:14.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:49:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T21:37:29.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T21:35:34.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:58:07.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OracleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Data\\OracleDbContext.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Data\\OracleDbContext.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Data\\OracleDbContext.cs",
+              "RelativeToolTip": "GSDOTNET\\Data\\OracleDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:31:18.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Models\\Produto.cs",
+              "RelativeToolTip": "GSDOTNET\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:36:27.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "GSDOTNET\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Models\\Categoria.cs",
+              "RelativeToolTip": "GSDOTNET\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:36:53.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:48:14.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "GSDOTNET\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "GSDOTNET\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:51:29.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Web.Debug.config",
+              "RelativeDocumentMoniker": "GSDOTNET\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Web.Debug.config",
+              "RelativeToolTip": "GSDOTNET\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-07T20:25:26.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Web.config",
+              "RelativeDocumentMoniker": "GSDOTNET\\Web.config",
+              "ToolTip": "C:\\Users\\mike\\source\\repos\\GSDOTNET\\GSDOTNET\\Web.config",
+              "RelativeToolTip": "GSDOTNET\\Web.config",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-07T20:25:22.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
